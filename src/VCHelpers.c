@@ -1,6 +1,5 @@
 /* 
 * Name: Taha Mohyuddin
-* Student ID: 1275575 
 * Date: 9 - Feb - 2025
 * Course: CIS2750
 */
